@@ -3,7 +3,7 @@
 ## Programa en Emsamblador para aquitectura MIPS
 Para esta fase del proyecto, es el momento de implementar un programa en ensamblador para la arquitectura MIPS.
 
-Se decidió, por consideraciones de tiempo y para añadir un nivel de complejidad, desarrollar un programa que calcula la serie de Fibonacci. Además del manual proporcionado en clase, se optó por ampliar la comprensión mediante una investigación adicional, utilizando el libro [Estructura de computadores. Procesadores MIPS y su ensamblador](https://www.agapea.com/libros/) del autor José Antonio Álvarez Bermejo.
+Se decidió, por consideraciones de tiempo y para añadir un nivel de complejidad, desarrollar un programa que calcula la serie de Fibonacci. Además del manual proporcionado en clase, se optó por ampliar la comprensión mediante una investigación adicional, utilizando el libro [Estructura de computadores. Procesadores MIPS y su ensamblador]([https://www.agapea.com/libros/](https://www.agapea.com/libros/Estructura-de-computadores-Procesadores-MIPS-y-su-ensamblador-9788478979042-i.htm)) del autor José Antonio Álvarez Bermejo.
 
 Esta decisión contribuyó significativamente a una mejor comprensión de la lógica dentro de la arquitectura MIPS, proporcionando una base sólida para comenzar con la implementación de su ensamblador.
 
