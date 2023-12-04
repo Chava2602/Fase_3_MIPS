@@ -139,8 +139,8 @@ Termina el programa.
     ```
     - Escribe la línea que marca el final de la sección de contenido del archivo `.mif`.
 
-### 3. Manipulación de InstructionMemory32.v (Verilog)
-- Se modifica el módulo `InstructionMemory32.v` (la memoria de instrucciones en el diseño del procesador MIPS) para cargar las instrucciones desde el archivo `.mif` generado durante la simulación.
+### 3. Manipulación de InstructionMemory.v (Verilog)
+- Se modifica el módulo `InstructionMemory.v` (la memoria de instrucciones en el diseño del procesador MIPS) para cargar las instrucciones desde el archivo `.mif` generado durante la simulación.
 
 - Se utiliza el comando `$readmemb` o `$readmemh` en el bloque initial para cargar las instrucciones en la memoria de instrucciones.
 
